@@ -1,0 +1,9 @@
+(module P1 (layer F.Cu) (tedit 612A8045)
+  (fp_text reference REF** (at 0 -8.255 90) (layer F.SilkS)
+    (effects (font (size 1 1) (thickness 0.15)) (justify left))
+  )
+  (fp_text value P1 (at 0 1.27) (layer F.Fab) hide
+    (effects (font (size 1 1) (thickness 0.15)))
+  )
+  (pad 1 connect roundrect (at 0 -3.81) (size 1.6002 7.62) (layers F.Cu F.Mask) (roundrect_rratio 0.25))
+)
